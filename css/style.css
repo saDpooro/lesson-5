@@ -1,0 +1,90 @@
+img{
+	width: 150px;
+	vertical-align: middle;
+}
+ul{
+	display: inline-block;
+	list-style: none;
+	vertical-align: bottom;
+}
+li{
+	display: inline-block;
+	margin-right: 20px;
+}
+.news{
+	font-family: "ALK Life", sans-serif;
+}
+
+.mtavari{
+	color: red;
+	font-family: "ALK Life", sans-serif;
+}
+.home{
+	color: red;
+}
+.goga{
+	width: 800px;
+	height: 400px;
+}
+a{
+	text-decoration: none;
+}
+h4{
+	display: inline-block;
+	border-right: solid 2px black
+}
+h5{
+	margin-bottom: 5px;
+}
+.design{
+	width: 130px;
+	height: 130px;
+	display: inline-block;
+}
+h4 span{
+	margin-top: 50px;
+}
+.box{
+	display: inline-block;
+	width: 550px;
+	height: 200px;
+	background-color: pink; 
+	vertical-align: middle;
+	margin-right: 100px;
+	
+}
+.inline{
+	display: inline-block;
+	width: 300px;
+}
+.second-box{
+	display: inline-block;
+	width: 550px;
+	height: 250px;
+	background-color: pink;
+	vertical-align: middle;
+}
+.anni{
+	display: inline-block;
+	width: 300px;
+}
+.facebook{
+	border-right: solid black 2px;
+	margin-top: 50px;
+	margin-right: 50px;
+	width: 50px;
+}
+.youtube{
+	margin-top: 50px;
+	width: 50px;
+	margin-left: 5px;
+}
+.map{
+	display: inline-block;
+	width: 1300px;
+	height: 600px;
+	background-color: pink;
+}
+.georgia{
+	display: inline-block;
+}
